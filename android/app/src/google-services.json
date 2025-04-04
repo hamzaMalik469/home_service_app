@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104359411727",
+    "project_id": "home-service-app-a4e31",
+    "storage_bucket": "home-service-app-a4e31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104359411727:android:f000a9582e31e2d911e37a",
+        "android_client_info": {
+          "package_name": "com.example.home_services_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNXyvaHrh7st_6Vz29tGcG90PYP5WUa5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
